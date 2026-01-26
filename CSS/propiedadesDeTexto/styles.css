@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+
+p {
+    color: red;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: 900;
+    font-style: oblique 48deg;
+    text-align: justify;
+    text-decoration: overline;
+    line-height: 1.4;
+    letter-spacing: 10px;
+}
+
+span {
+    color: brown;
+    text-decoration: line-through;
+}
