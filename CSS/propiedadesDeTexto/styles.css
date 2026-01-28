@@ -4,14 +4,14 @@ h1{
 
 p {
     color: red;
-    font-family: sans-serif;
+    font-family: Montserrat;
+    font-weight: 100;
     font-size: 13px;
-    font-weight: 900;
-    font-style: oblique 48deg;
-    text-align: justify;
+    font-style: italic;
+    text-align: left;
     text-decoration: overline;
-    line-height: 1.4;
-    letter-spacing: 10px;
+    line-height: 2;
+    letter-spacing: 1px;
 }
 
 span {
